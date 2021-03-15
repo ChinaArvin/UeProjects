@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-My_Test_Project_v008-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\My_Test_Project_v008Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\UE4Editor\Development\My_Test_Project_v008\My_Test_Project_v008.cpp.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\UE4Editor\Development\My_Test_Project_v008\My_Test_Project_v008GameModeBase.cpp.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\UE4Editor\Development\My_Test_Project_v008\My_Test_Project_v008.init.gen.cpp.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\UE4Editor\Development\My_Test_Project_v008\My_Test_Project_v008GameModeBase.gen.cpp.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\UE4Editor\Development\My_Test_Project_v008\Default.rc2.res"
+/OUT:"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v008\Intermediate\Build\Win64\UE4Editor\Development\My_Test_Project_v008\UE4Editor-My_Test_Project_v008-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_My_Test_Project_v008

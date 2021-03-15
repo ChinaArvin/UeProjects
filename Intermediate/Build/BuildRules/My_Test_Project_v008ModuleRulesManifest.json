@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\SelfFile\\UE4_LearnFile\\CppAPI_Project_v001\\My_Test_Project_v008\\Source\\My_Test_Project_v008\\My_Test_Project_v008.Build.cs",
+		"D:\\SelfFile\\UE4_LearnFile\\CppAPI_Project_v001\\My_Test_Project_v008\\Plugins\\SelcetFoliage\\Source\\SelcetFoliage\\SelcetFoliage.Build.cs",
+		"D:\\SelfFile\\UE4_LearnFile\\CppAPI_Project_v001\\My_Test_Project_v008\\Source\\My_Test_Project_v008.Target.cs",
+		"D:\\SelfFile\\UE4_LearnFile\\CppAPI_Project_v001\\My_Test_Project_v008\\Source\\My_Test_Project_v008Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

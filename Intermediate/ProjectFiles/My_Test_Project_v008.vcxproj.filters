@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\My_Test_Project_v008.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2575FC06-93E0-49D8-AEEC-53EFA83AED45}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\My_Test_Project_v008.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\My_Test_Project_v008Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{49A07565-E211-4953-AF89-3303E6DE670D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{4D8693E8-19FA-4E6D-9E7D-F5447D810310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SelcetFoliage">
+      <UniqueIdentifier>{8169613B-028D-4A2F-B336-A97F988C1146}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SelcetFoliage\SelcetFoliage.uplugin">
+      <Filter>Plugins\SelcetFoliage</Filter>
+    </None>
+    <Filter Include="Plugins\SelcetFoliage\Resources">
+      <UniqueIdentifier>{F40D81E2-E285-449A-9906-971D04212553}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SelcetFoliage\Resources\Icon128.png">
+      <Filter>Plugins\SelcetFoliage\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\SelcetFoliage\Source">
+      <UniqueIdentifier>{90661D88-2610-465A-9D9C-0A89D28ACEA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SelcetFoliage\Source\SelcetFoliage">
+      <UniqueIdentifier>{78AC6995-3E1B-4E9B-BF45-171E13634D8C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SelcetFoliage\Source\SelcetFoliage\SelcetFoliage.Build.cs">
+      <Filter>Plugins\SelcetFoliage\Source\SelcetFoliage</Filter>
+    </None>
+    <Filter Include="Plugins\SelcetFoliage\Source\SelcetFoliage\Private">
+      <UniqueIdentifier>{2ABBD836-0F7E-442C-9AFB-08CD18EEA42C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SelcetFoliage\Source\SelcetFoliage\Private\SelcetFoliage.cpp">
+      <Filter>Plugins\SelcetFoliage\Source\SelcetFoliage\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SelcetFoliage\Source\SelcetFoliage\Private\SelectInstance.cpp">
+      <Filter>Plugins\SelcetFoliage\Source\SelcetFoliage\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\SelcetFoliage\Source\SelcetFoliage\Public">
+      <UniqueIdentifier>{BEE0A8B8-85BC-4851-8069-224E5FE54D19}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SelcetFoliage\Source\SelcetFoliage\Public\SelcetFoliage.h">
+      <Filter>Plugins\SelcetFoliage\Source\SelcetFoliage\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SelcetFoliage\Source\SelcetFoliage\Public\SelectInstance.h">
+      <Filter>Plugins\SelcetFoliage\Source\SelcetFoliage\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\My_Test_Project_v008">
+      <UniqueIdentifier>{702E3F41-A570-4F4C-A98B-41E04F5B4A63}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\My_Test_Project_v008\My_Test_Project_v008.Build.cs">
+      <Filter>Source\My_Test_Project_v008</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\My_Test_Project_v008\My_Test_Project_v008.cpp">
+      <Filter>Source\My_Test_Project_v008</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\My_Test_Project_v008\My_Test_Project_v008.h">
+      <Filter>Source\My_Test_Project_v008</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\My_Test_Project_v008\My_Test_Project_v008GameModeBase.cpp">
+      <Filter>Source\My_Test_Project_v008</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\My_Test_Project_v008\My_Test_Project_v008GameModeBase.h">
+      <Filter>Source\My_Test_Project_v008</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

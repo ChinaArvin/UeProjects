@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SelcetFoliage-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v007\Intermediate\Build\Win64\My_Test_Project_v007Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v007\Plugins\SelcetFoliage\Intermediate\Build\Win64\UE4Editor\Development\SelcetFoliage\Module.SelcetFoliage.cpp.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v007\Plugins\SelcetFoliage\Intermediate\Build\Win64\UE4Editor\Development\SelcetFoliage\Module.SelcetFoliage.gen.cpp.obj"
+"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v007\Plugins\SelcetFoliage\Intermediate\Build\Win64\UE4Editor\Development\SelcetFoliage\Default.rc2.res"
+/OUT:"D:\SelfFile\UE4_LearnFile\CppAPI_Project_v001\My_Test_Project_v007\Plugins\SelcetFoliage\Intermediate\Build\Win64\UE4Editor\Development\SelcetFoliage\UE4Editor-SelcetFoliage-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_SelcetFoliage

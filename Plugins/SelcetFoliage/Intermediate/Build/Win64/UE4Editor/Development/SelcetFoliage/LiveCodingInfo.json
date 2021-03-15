@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SelcetFoliage.cpp.obj": [
+			"SelcetFoliage.cpp.obj",
+			"SelectInstance.cpp.obj"
+		],
+		"Module.SelcetFoliage.gen.cpp.obj": [
+			"SelcetFoliage.init.gen.cpp.obj",
+			"SelectInstance.gen.cpp.obj"
+		]
+	}
+}

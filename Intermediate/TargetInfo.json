@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "My_Test_Project_v008",
+			"Path": "D:\\SelfFile\\UE4_LearnFile\\CppAPI_Project_v001\\My_Test_Project_v008\\Source\\My_Test_Project_v008.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "My_Test_Project_v008Editor",
+			"Path": "D:\\SelfFile\\UE4_LearnFile\\CppAPI_Project_v001\\My_Test_Project_v008\\Source\\My_Test_Project_v008Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
